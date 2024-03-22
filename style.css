@@ -1,0 +1,24 @@
+/* *{  
+
+}*/
+.card{
+    background-color: #ffff;
+    width:250px;
+    padding: 10px;
+    box-shadow: 10px 10px 40px #ccc;
+}
+.card img{
+    width:100%;
+}
+.card .top-price{
+    background-color: rebeccapurple;
+    color: #ffff;
+    padding: 5px 10px;
+    display: inline-block;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+.texts{
+    text-decoration: line-through;
+}
